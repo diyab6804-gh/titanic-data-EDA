@@ -32,6 +32,8 @@ titanic_data_EDA/
 ├── README.md
 └── requirements.txt
 
+⚠️ Note: If notebook & report.html preview fails on GitHub, download and run locally for full interactive visualization support.
+
 ```
 
 ---
