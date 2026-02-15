@@ -23,10 +23,11 @@ titanic_data_EDA/
 │   └── titanic dataset.csv
 │
 ├── notebooks/
-│   └── Task2_Titanic_Data_EDA.ipynb
+│   └── Task2_Titanic_Data_EDA (1).ipynb
 │
 ├── reports/
-│   └── Titanic_EDA_Report.html
+│   └── Task_2_Titanic_Data_EDA_Report.pdf
+    └── Titanic_EDA_Report.html
 │
 ├── README.md
 └── requirements.txt
